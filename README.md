@@ -3,7 +3,7 @@
 
 
 Table of Contents
-Introduction
+-Introduction
 Features
 Getting Started
 Prerequisites
@@ -13,8 +13,13 @@ Model Training
 Performance
 Contributing
 License
+
+
+
 Introduction
 This is a smarter AI-powered spam classifier that uses machine learning to identify and filter spam messages from a given dataset. It is designed to improve email and message filtering by utilizing state-of-the-art natural language processing techniques. This README provides an overview of the project, instructions for installation and usage, and information about model training and performance.
+
+
 
 Features
 State-of-the-art machine learning model for spam classification.
